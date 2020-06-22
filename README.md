@@ -14,7 +14,6 @@ The Q-CTRL DevOps Engineering Challenge is a way for applicants to roles within 
 
 - Read and understand [The Challenge](#the-challenge)
 - Create a solution that satisfies the [Requirements](#requirements)
-- Send the link to the repository containing your solution to careers@q-ctrl.com
 
 ## The Challenge
 
@@ -29,9 +28,9 @@ The Q-CTRL DevOps Engineering Challenge is a way for applicants to roles within 
 ### Requirements
 
 Your solution must contain:
-* All code used to create the site
-* Instructions to set up the site for ourselves
-* A section in your documentation outlining any improvements you would make to your solution as well as any alternative solutions
+- All code used to create the site
+- Instructions to set up the site for ourselves
+- A section in your documentation outlining any improvements you would make to your solution as well as any alternative solutions
 
 ## Contributing
 
