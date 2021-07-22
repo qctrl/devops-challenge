@@ -1,2 +1,12 @@
 ##### This file is generated automatically. DO NOT EDIT #####
 * @qctrl/devops-engineering
+
+.dockerignore @qctrl/devops-engineering
+.github/ @qctrl/devops-engineering
+app.*.yaml @qctrl/devops-engineering
+CODEOWNERS @qctrl/devops-engineering
+deployment/ @qctrl/devops-engineering
+docker* @qctrl/devops-engineering
+Docker* @qctrl/devops-engineering
+
+.github/README.md @qctrl/devops-engineering
