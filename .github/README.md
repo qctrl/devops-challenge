@@ -34,4 +34,4 @@ See [Contributors](https://github.com/qctrl/devops-challenge/graphs/contributors
 
 ## License
 
-See [LICENSE](https://github.com/qctrl/devops-challenge/blob/master/LICENSE)).
+See [LICENSE](https://github.com/qctrl/devops-challenge/blob/master/LICENSE).
