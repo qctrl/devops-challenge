@@ -1,6 +1,6 @@
-# Q-CTRL DevOps Engineering Challenge
+# Q-CTRL DevOps Challenge
 
-The Q-CTRL DevOps Engineering Challenge is a way for applicants to roles within the Q-CTRL DevOps Engineering team to demonstrate their overall approach in creating solutions from a variety of requirements.
+The Q-CTRL DevOps Challenge is a way for applicants to roles within the Q-CTRL DevOps Engineering team to demonstrate their overall approach in creating solutions from a variety of requirements.
 
 ## The rules
 
