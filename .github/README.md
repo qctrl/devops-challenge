@@ -30,7 +30,7 @@ Your solution must contain:
 
 ## Contributing
 
-See [Contributing](https://github.com/qctrl/.github/blob/master/CONTRIBUTING.md).
+See [Contributing](https://code.q-ctrl.com/contributing).
 
 ## Credits
 
