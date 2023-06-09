@@ -1,6 +1,6 @@
 # Q-CTRL DevOps Challenge
 
-The Q-CTRL DevOps Challenge is a way for applicants to roles within the Q-CTRL DevOps Engineering team to demonstrate their overall approach in creating solutions from a variety of requirements.
+The Q-CTRL DevOps Challenge is a way for applicants applying for a role within the Q-CTRL DevOps Engineering team to demonstrate their overall approach to creating solutions from a variety of requirements.
 
 ## The rules
 
@@ -15,7 +15,7 @@ The Q-CTRL DevOps Challenge is a way for applicants to roles within the Q-CTRL D
     - This text should include your name, e.g. “This is Mary Smith’s website”.
     - You will not be judged on your HTML skills.
     - Feel free to stick within the free/trial tiers for the resources you create.
-- Create a public repo that includes all relevant code, and a README.md on how someone could replicate your website if required. Shortlisted candidates will have their instructions tested for accuracy and comprehensibility. This new repository should **not** be a fork of this repository and should **not** make reference to "Q-CTRL" in the repository name, description, or code.
+- Create a public repo that includes all relevant code, and a README.md with instructions for someone to replicate your website if required. Shortlisted candidates will have their instructions tested for accuracy and comprehensibility. This new repository should **not** be a fork of this repository and should **not** make reference to "Q-CTRL" in the repository name, description, or code.
 - Document:
     - What else you would do with your website, and how you would go about doing it if you had more time.
     - Alternative solutions that you could have taken but didn't and explain why.
